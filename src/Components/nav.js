@@ -10,10 +10,7 @@ export default function Nav() {
             <a href="#about">About</a>
           </li></button>
           <button><li>
-            <a href="#portfolio">Services</a>
-          </li></button>
-          <button><li>
-            <a href="#resume">Resume</a>
+            <a href="#resume">Services</a>
           </li></button>
           <button><li>
             <a href="#contact">Contact</a>
