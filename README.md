@@ -1,8 +1,8 @@
 
-# React Portfolio
+# Boosted Tech Co. Portfolio
 
 ## Description
-This project is version 2 of my personal portfolio made 100% with React.
+This project is version 1 of a business website made for Boosted Technology Co. made 100% with React.
 
 ## Table of Contents
 * [Usage](#usage)
@@ -19,13 +19,9 @@ For displaying my skills of software development, my projects and my resume.
 Contributions are not accepted. Thank you.
 
 ## Tests
-Run npm start and the portfolio will load in the browser.
+Run npm start and the website will load in the browser. Deployed through Git Pages
 
 ## Questions
-If you have any questions, please contact me at jayshirey@gmail.com	 or visit my [GitHub profile](https://github.com/jpshirey5).
-
-## Screenshot
-![](src/Components/images/portfolio_v2_SS.png)
+If you have any questions, please contact me at jayshirey@icloud.com or visit my [GitHub profile](https://github.com/jpshirey5).
 
 ## Deployment
-https://jpshirey5.github.io/portfolio_v2/
