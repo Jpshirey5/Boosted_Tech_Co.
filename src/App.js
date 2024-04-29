@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import Nav from "./Components/nav.js";
 import Main from "./Components/main.js";
 import About from "./Components/about.js";
 import Resume from "./Components/resume.js";
@@ -10,6 +11,7 @@ export default function App() {
   return (
     <div className="App">
       <>
+      <Nav />
         <div className="main">
           <Main />
           <div className="about">

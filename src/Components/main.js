@@ -1,13 +1,14 @@
 import React from "react";
-import Nav from "./nav";
-import Logo from "./images/Boosted Enterprises.png"
+import Logo from "./images/Boosted Enterprises.png";
+import "../App.css"; // Import CSS file for styling
 
 export default function Main() {
   return (
     <>
-      <Nav />
-      <div className="intro">
-        <img src={Logo} alt="placeholder" />
+      <div className="content">
+        <div className="intro">
+          <img src={Logo} alt="placeholder" /> 
+        </div>
       </div>
     </>
   );
