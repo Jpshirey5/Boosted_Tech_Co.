@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Boosted_Tech_Co/static/css/main.4ef307dc.css",
-    "main.js": "/Boosted_Tech_Co/static/js/main.9bdf7cc5.js",
-    "static/js/787.70c8d13c.chunk.js": "/Boosted_Tech_Co/static/js/787.70c8d13c.chunk.js",
-    "static/media/Boosted Enterprises.png": "/Boosted_Tech_Co/static/media/Boosted Enterprises.ec8dc93c488184582089.png",
-    "index.html": "/Boosted_Tech_Co/index.html",
-    "main.4ef307dc.css.map": "/Boosted_Tech_Co/static/css/main.4ef307dc.css.map",
-    "main.9bdf7cc5.js.map": "/Boosted_Tech_Co/static/js/main.9bdf7cc5.js.map",
-    "787.70c8d13c.chunk.js.map": "/Boosted_Tech_Co/static/js/787.70c8d13c.chunk.js.map"
+    "main.css": "/portfolio_v2/static/css/main.4ef307dc.css",
+    "main.js": "/portfolio_v2/static/js/main.436150c0.js",
+    "static/js/787.70c8d13c.chunk.js": "/portfolio_v2/static/js/787.70c8d13c.chunk.js",
+    "static/media/Boosted Enterprises.png": "/portfolio_v2/static/media/Boosted Enterprises.ec8dc93c488184582089.png",
+    "index.html": "/portfolio_v2/index.html",
+    "main.4ef307dc.css.map": "/portfolio_v2/static/css/main.4ef307dc.css.map",
+    "main.436150c0.js.map": "/portfolio_v2/static/js/main.436150c0.js.map",
+    "787.70c8d13c.chunk.js.map": "/portfolio_v2/static/js/787.70c8d13c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ef307dc.css",
-    "static/js/main.9bdf7cc5.js"
+    "static/js/main.436150c0.js"
   ]
 }
